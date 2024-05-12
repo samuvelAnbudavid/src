@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "atcsmj2x_root",
+    "password": "987654321@Atc#",
+    "database": "atcsmj2x_bulksms",
+    "host": "199.79.62.21",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
